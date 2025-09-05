@@ -51,8 +51,11 @@ pipeline {
 ```
 ### 3. Pipeline’ı çalıştırın
 Jenkins web arayüzünde Build Now butonuna tıklayın
+
 Adımların başarıyla geçtiğini kontrol edin
+
 🧪 Testler
+
 Testleri manuel olarak çalıştırmak için:
 ```bash
 cd tests
